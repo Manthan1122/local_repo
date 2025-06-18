@@ -1,5 +1,4 @@
 # This is my local repo
 <b> hello local directory  </b> <br>
- <h1>Hello local directory</h1> <br>
     <p>make any folder in local directory means in computer and connect with Github. <br> 
     Through using init command.</p>
